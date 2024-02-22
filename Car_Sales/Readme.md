@@ -1,4 +1,4 @@
-### Introducing advanced Car Sales Dashboard in Power BI! Leveraging the power of DAX queries, this dynamic tool provides unparalleled insights into dealership's performance. From comprehensive sales overviews to intricate average price analysis, detailed cars sold metrics and some YTD sales charts , every aspect of data is meticulously analyzed. 
+#### Introducing advanced Car Sales Dashboard in Power BI! Leveraging the power of DAX queries, this dynamic tool provides unparalleled insights into dealership's performance. From comprehensive sales overviews to intricate average price analysis, detailed cars sold metrics and some YTD sales charts , every aspect of data is meticulously analyzed. 
 
 ## Screenshots 
 

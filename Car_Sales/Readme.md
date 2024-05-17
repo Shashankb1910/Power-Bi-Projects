@@ -4,8 +4,9 @@
 
 ### Car Sales | Overview 
 
-![Screenshot 2024-02-23 001118](https://github.com/Shashankb1910/Power-Bi-Projects/assets/129300507/e215c079-86d4-4477-89b8-85b2e21da76a)
+![Screenshot 2024-02-23 001019](https://github.com/Shashankb1910/Power-Bi-Projects/assets/129300507/ffaf3c67-c3c5-4308-9392-f33b07289162)
+
 
 ### Car Sales | Details
 
-![Screenshot 2024-02-23 001019](https://github.com/Shashankb1910/Power-Bi-Projects/assets/129300507/ffaf3c67-c3c5-4308-9392-f33b07289162)
+![Screenshot 2024-02-23 001118](https://github.com/Shashankb1910/Power-Bi-Projects/assets/129300507/e215c079-86d4-4477-89b8-85b2e21da76a)

@@ -1,5 +1,5 @@
 ### Introducing my Superstore Report Dashboard in Power BI! Explore a comprehensive analysis of sales, trends, and performance metrics derived from Superstore data. From top-selling products to regional insights, this dynamic dashboard offers a visually engaging experience that empowers decision-makers to drive efficiency and optimize strategies. Dive in and discover the power of actionable insights at your fingertips.
 
-### Screenshot.
+# Superstore Report
 
-![Superstore](https://private-user-images.githubusercontent.com/129300507/307101851-d3bebc17-1349-4bcb-adc6-38412f242d71.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkzNzI3MzMsIm5iZiI6MTcwOTM3MjQzMywicGF0aCI6Ii8xMjkzMDA1MDcvMzA3MTAxODUxLWQzYmViYzE3LTEzNDktNGJjYi1hZGM2LTM4NDEyZjI0MmQ3MS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwMlQwOTQwMzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00MTk3NTdjNGI4Y2Y4OTczMGEyZjZmMWU2NDg1MjNlMTI3MjA0MzQ2ZTBiOWExNWVjNGZhNjJjNGI1OWZlMjA1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.7U8JBSOxicYWYA9osR2LsoyvlCkazkmaAJfI5Oh4ctU)
+![Screenshot 2024-02-22 232604](https://github.com/Shashankb1910/Power-Bi-Projects/assets/129300507/f6eebc9d-cd17-40cf-949d-0ac8696a8f9d)
